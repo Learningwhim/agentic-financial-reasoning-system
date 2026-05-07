@@ -7,3 +7,4 @@ tavily-python
 pydantic
 python-dotenv
 rich
+langchain-groq
